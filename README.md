@@ -7,3 +7,4 @@ Lets add to this
 - git push
 
 ## Add your github tips or add to the list above 
+Try adding conflicting lines so we can practice merging and pulling 
