@@ -2,7 +2,11 @@
 Lets add to this
 
 ## Github instructions: 
-- git add . 
+- git init
+- git clone 
+
+- git add .
+- git status #to double check 
 - git commit -m "text"
 - git push
 
