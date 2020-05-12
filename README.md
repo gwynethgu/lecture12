@@ -2,6 +2,7 @@
 Lets add to this
 
 ## Github instructions: 
+- git clone
 - git add . 
 - git commit -m "text"
 - git push
